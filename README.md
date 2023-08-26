@@ -9,7 +9,7 @@ Clone repository and use `npm i --force --legacy-peer-deps`
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-If you would like it to run on different port use `ng serve --port [PORT]`
+If you would like to run it on different port use `ng serve --port [PORT]`
 
 ## Build
 
